@@ -7,6 +7,7 @@ https://gahui-developer123.tistory.com/100
 # Install Version
 
 PHP 7.2.34
+
 Server version: 5.7.22 MySQL Community Server
 
 # install
